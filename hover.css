@@ -1,0 +1,13 @@
+body{
+	background-color: black;
+}
+table{
+	background-color: white;
+}
+tbody:hover{
+	background-color: lightblue;
+}
+th{
+	background-color: yellow;
+}
+table {border:none;}
